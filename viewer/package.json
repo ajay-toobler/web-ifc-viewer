@@ -60,6 +60,6 @@
     "path": false
   },
   "peerDependencies": {
-    "three": "^0.135.0"
+    "three-old": "^0.135.0"
   }
 }
